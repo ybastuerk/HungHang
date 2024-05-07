@@ -1,0 +1,20 @@
+{
+    "name": "ybastuerk/hunghang",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ybastuerk\\Hunghang\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yusuf Bastürk",
+            "email": "ybastuerk@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "nesbot/carbon": "^3.0@dev"
+    }
+}
